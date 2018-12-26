@@ -1,0 +1,11 @@
+# Ignore folder
+?build/
+?bin/
+debug
+
+# Ignore file
+?*.sdf
+*.txt
+
+#Ngoai tru folder
+!data/text/
